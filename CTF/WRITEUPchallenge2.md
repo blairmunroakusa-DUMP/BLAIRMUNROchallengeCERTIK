@@ -1,7 +1,8 @@
-CANDIDATE: Blair Munro
-EMAIL: blairmunroakusa@wp.computer
+#### CANDIDATE: Blair Munro
 
-CHALLENGE 2 WRITEUP:
+#### EMAIL: blairmunroakusa@wp.computer
+
+##### CHALLENGE 2 WRITEUP:
 
 I was going to try exploiting the Lender with fancy flashloans or something like that, but I noticed a simpler approach based off a flaw in the liquidation function. The liquidation function pays out the liquidated account's deposit amount in WETH, but it never zeros out the deposited balance, allowing anybody to just repeatedly borrow and liquidate until the poor lender is drained dry.
 

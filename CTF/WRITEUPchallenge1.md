@@ -1,7 +1,8 @@
-CANDIDATE: Blair Munro
-EMAIL: blairmunroakusa@wp.computer
+#### CANDIDATE: Blair Munro
 
-CHALLENGE 1 WRITEUP:
+#### EMAIL: blairmunroakusa@wp.computer
+
+##### CHALLENGE 1 WRITEUP:
 
 (?) denotes a statement I am not sure of
 
